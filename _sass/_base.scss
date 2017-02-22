@@ -34,6 +34,7 @@ body {
     a:visited{
         color: #fff;
     }
+    
 }
 a.logo{
     width: 117px;
@@ -88,6 +89,7 @@ img {
     left: 0;
     width: 100%;
     z-index: 1;
+    color: #fff;
 
   }
   h1{
@@ -192,6 +194,7 @@ a {
   transform: translateY(-50%);
   width: 50%;
   display: inline-block;
+  color: #fff;
 }
 .contact-box{
   background-color: $brand-color;
